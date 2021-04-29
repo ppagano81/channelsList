@@ -1,3 +1,21 @@
 #EXTM3U
 
+#EXTINF​:-1 group-title="TV" tvg-chno="1" tvg-logo"Logo" tvg-country="UY" tvg-name="CANAL 4 FHD (UY)" tvg-language="Spanish" tvg-id="ID",CANAL 4 FHD (UY) 
 
+http://etvhome.com:25461/45113945/54931154/89144
+
+#EXTINF​:-1 group-title="TV" tvg-chno="2" tvg-logo"Logo" tvg-country="UY" tvg-name="CANAL 5 TNU HD (UY)" tvg-language="Spanish" tvg-id="ID",CANAL 5 TNU HD (UY) 
+
+http://etvhome.com:25461/45113945/54931154/13253
+
+#EXTINF​:-1 group-title="TV" tvg-chno="3" tvg-logo"Logo" tvg-country="UY" tvg-name="CANAL 10 FHD (UY)" tvg-language="Spanish" tvg-id="ID",CANAL 10 FHD (UY) 
+
+http://etvhome.com:25461/45113945/54931154/89145
+
+#EXTINF​:-1 group-title="TV" tvg-chno="4" tvg-logo"Logo" tvg-country="UY" tvg-name="CANAL 12 FHD (UY)" tvg-language="Spanish" tvg-id="ID",CANAL 12 FHD (UY) 
+
+http://etvhome.com:25461/45113945/54931154/89146
+
+#EXTINF​:-1 group-title="TV" tvg-chno="5" tvg-logo"Logo" tvg-country="US" tvg-name="CNN EN ESPAÑOL (LA) " tvg-language="Spanish" tvg-id="ID",CNN EN ESPAÑOL (LA)  
+
+http://etvhome.com:25461/45113945/54931154/14114
