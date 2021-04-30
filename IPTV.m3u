@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF​:-1 tvg-id="24/7 LOS SIMPSON 01-15"  tvg-name="AMERICA HD" tvg-logo="https://i.imgur.com/O9amrzQ.jpg" group-title="TV" tvg-chno="1" tvg-country="AR" tvg-language="Spanish" ,AMERICA HD
+#EXTINF​:-1 tvg-id="America2.ar"  tvg-name="AMERICA HD" tvg-logo="https://i.imgur.com/O9amrzQ.jpg" group-title="TV" tvg-chno="1" tvg-country="AR" tvg-language="Spanish" ,AMERICA HD
 http://etvhome.com:25461/45113945/54931154/36418
 #EXTINF​:-1 group-title="TV" tvg-chno="2" tvg-logo"" tvg-country="AR" tvg-name="CANAL 26 HD" tvg-language="Spanish" tvg-id="" ,CANAL 26 HD
 http://etvhome.com:25461/45113945/54931154/33754
