@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF​:-1 tvg-id="America2.ar"  tvg-name="AMERICA HD" tvg-logo="https://i.imgur.com/O9amrzQ.jpg" group-title="TV" tvg-chno="1" tvg-country="AR" tvg-language="Spanish" ,AMERICA HD
+#EXTINF​:-1 group-title="TV" tvg-chno="1" tvg-logo"" tvg-country="AR" tvg-name="AMERICA HD" tvg-language="Spanish" tvg-id="" ,AMERICA HD
 http://etvhome.com:25461/45113945/54931154/36418
 #EXTINF​:-1 group-title="TV" tvg-chno="2" tvg-logo"" tvg-country="AR" tvg-name="CANAL 26 HD" tvg-language="Spanish" tvg-id="" ,CANAL 26 HD
 http://etvhome.com:25461/45113945/54931154/33754
@@ -222,305 +222,295 @@ http://etvhome.com:25461/45113945/54931154/74125
 http://etvhome.com:25461/45113945/54931154/76311
 #EXTINF​:-1 group-title="KIDS" tvg-chno="111" tvg-logo"" tvg-country="AR" tvg-name="Cartoon Network (CA)" tvg-language="Spanish" tvg-id="" ,Cartoon Network (CA)
 http://etvhome.com:25461/45113945/54931154/80779
-#EXTINF​:-1 group-title="Rugby" tvg-chno="112" tvg-logo"" tvg-country="US" tvg-name="Fox Soccer Plus" tvg-language="English" tvg-id="" ,Fox Soccer Plus
+#EXTINF​:-1 group-title="Rugby" tvg-chno="112" tvg-logo"https://i.postimg.cc/htTMZFWD/FOXSoccer-Plus-us.png" tvg-country="US" tvg-name="Fox Soccer Plus" tvg-language="English" tvg-id="FOXSoccerPlus.us" ,Fox Soccer Plus
 http://etvhome.com:25461/45113945/54931154/78955
-#EXTINF​:-1 group-title="Rugby" tvg-chno="113" tvg-logo"" tvg-country="AR" tvg-name="ESPN EXTRA HD" tvg-language="Spanish" tvg-id="" ,ESPN EXTRA HD
+#EXTINF​:-1 group-title="Rugby" tvg-chno="113" tvg-logo"https://i.postimg.cc/xC4KTgDp/ESPN-Extra.png" tvg-country="CO" tvg-name="ESPN EXTRA HD" tvg-language="Spanish" tvg-id="ESPNExtraLatAm.co" ,ESPN EXTRA HD
 http://etvhome.com:25461/45113945/54931154/13922
-#EXTINF​:-1 group-title="Rugby" tvg-chno="114" tvg-logo"" tvg-country="MY" tvg-name="ASTRO RUGBY PASS" tvg-language="English" tvg-id="RugbyPass TV HD" ,ASTRO RUGBY PASS
+#EXTINF​:-1 group-title="Rugby" tvg-chno="114" tvg-logo"https://i.postimg.cc/L4JWkbXX/Astro-Rugby-Pass-TV.jpg" tvg-country="MY" tvg-name="ASTRO RUGBY PASS" tvg-language="English" tvg-id="RugbyPass TV HD" ,ASTRO RUGBY PASS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/18593.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="115" tvg-logo"https://i.postimg.cc/hj6Mf283/S-Rugby.jpg" tvg-country="SA" tvg-name="S Rugby" tvg-language="English" tvg-id="" ,S Rugby
+#EXTINF​:-1 group-title="Rugby" tvg-chno="115" tvg-logo"https://i.postimg.cc/L83Q6dyy/Super-Sport-Rugby.png" tvg-country="ZA" tvg-name="SuperSport Rugby" tvg-language="English" tvg-id="SuperSportRugby.za" ,SuperSport Rugby
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/74001.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="116" tvg-logo"" tvg-country="FR" tvg-name="Canal+ Sport 3 HD PL" tvg-language="French" tvg-id="" ,Canal+ Sport 3 HD PL
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/78187.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="117" tvg-logo"" tvg-country="FR" tvg-name="Canal+ Sport 3 FHD PL" tvg-language="French" tvg-id="" ,Canal+ Sport 3 FHD PL
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/78188.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="118" tvg-logo"" tvg-country="FR" tvg-name="Canal+ Sport 4 HD PL" tvg-language="French" tvg-id="" ,Canal+ Sport 4 HD PL
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/78189.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="119" tvg-logo"" tvg-country="FR" tvg-name="Canal+ Sport 4 FHD PL" tvg-language="French" tvg-id="" ,Canal+ Sport 4 FHD PL
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/78190.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="120" tvg-logo"" tvg-country="FR" tvg-name="Canal+ Sport 2 HD AF" tvg-language="French" tvg-id="" ,Canal+ Sport 2 HD AF
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/8870.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="121" tvg-logo"" tvg-country="EN" tvg-name="S Variety 1 FHD AF VIP" tvg-language="English" tvg-id="" ,S Variety 1 FHD AF VIP
+#EXTINF​:-1 group-title="Rugby" tvg-chno="116" tvg-logo"https://i.postimg.cc/gJQNBGJ0/Super-Sport-Variety-1.png" tvg-country="ZA" tvg-name="SuperSport Variety 1" tvg-language="English" tvg-id="SuperSportVariety1.za" ,SuperSport Variety 1
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/73995.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="122" tvg-logo"" tvg-country="EN" tvg-name="S Variety 2 FHD AF VIP" tvg-language="English" tvg-id="" ,S Variety 2 FHD AF VIP
+#EXTINF​:-1 group-title="Rugby" tvg-chno="117" tvg-logo"https://i.postimg.cc/LshkdGGg/Super-Sport-Variety-2.png" tvg-country="ZA" tvg-name="SuperSport Variety 2" tvg-language="English" tvg-id="SuperSportVariety2.za" ,SuperSport Variety 2
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/73996.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="123" tvg-logo"" tvg-country="EN" tvg-name="S Variety 3 FHD AF VIP" tvg-language="English" tvg-id="" ,S Variety 3 FHD AF VIP
+"#EXTINF​:-1 group-title=""Rugby"" tvg-chno=""118"" tvg-logo""https://i.postimg.cc/j57z2Pxs/Super-Sport-Variety-3.png"" tvg-country=""ZA"" tvg-name=""SuperSport Variety 3"" tvg-language=""English"" tvg-id=""	SuperSportVariety3.za"" ,SuperSport Variety 3"
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/74002.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="124" tvg-logo"" tvg-country="EN" tvg-name="S Variety 4 FHD AF VIP" tvg-language="English" tvg-id="" ,S Variety 4 FHD AF VIP
+"#EXTINF​:-1 group-title=""Rugby"" tvg-chno=""119"" tvg-logo""https://i.postimg.cc/0yyDmLkX/Super-Sport-Variety-4.png"" tvg-country=""ZA"" tvg-name=""SuperSport Variety 4"" tvg-language=""English"" tvg-id=""	SuperSportVariety4.za"" ,SuperSport Variety 4"
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/73992.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="125" tvg-logo"" tvg-country="FR" tvg-name="MULTISPORTS 1 FR" tvg-language="French" tvg-id="" ,MULTISPORTS 1 FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="120" tvg-logo"https://i.postimg.cc/W4QkBzMx/Multisports1-fr.png" tvg-country="FR" tvg-name="Multisports 1" tvg-language="French" tvg-id="Multisports1.fr" ,Multisports 1
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/77675.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="126" tvg-logo"" tvg-country="FR" tvg-name="MULTISPORTS 2 FR" tvg-language="French" tvg-id="" ,MULTISPORTS 2 FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="121" tvg-logo"https://i.postimg.cc/W4QkBzMx/Multisports1-fr.png" tvg-country="FR" tvg-name="Multisports 2" tvg-language="French" tvg-id="Multisports2.fr" ,Multisports 2
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/77676.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="127" tvg-logo"" tvg-country="FR" tvg-name="MULTISPORTS 3 FR" tvg-language="French" tvg-id="" ,MULTISPORTS 3 FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="122" tvg-logo"https://i.postimg.cc/W4QkBzMx/Multisports1-fr.png" tvg-country="FR" tvg-name="Multisports 3" tvg-language="French" tvg-id="Multisports3.fr" ,Multisports 3
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/77677.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="128" tvg-logo"" tvg-country="FR" tvg-name="MULTISPORTS 4 FR" tvg-language="French" tvg-id="" ,MULTISPORTS 4 FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="123" tvg-logo"https://i.postimg.cc/W4QkBzMx/Multisports1-fr.png" tvg-country="FR" tvg-name="Multisports 4" tvg-language="French" tvg-id="Multisports4.fr" ,Multisports 4
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/77678.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="129" tvg-logo"" tvg-country="FR" tvg-name="MULTISPORTS 5 FR" tvg-language="French" tvg-id="" ,MULTISPORTS 5 FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="124" tvg-logo"https://i.postimg.cc/W4QkBzMx/Multisports1-fr.png" tvg-country="FR" tvg-name="Multisports 5" tvg-language="French" tvg-id="Multisports5.fr" ,Multisports 5
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/77679.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="130" tvg-logo"" tvg-country="FR" tvg-name="MULTISPORTS 6 FR" tvg-language="French" tvg-id="" ,MULTISPORTS 6 FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="125" tvg-logo"https://i.postimg.cc/W4QkBzMx/Multisports1-fr.png" tvg-country="FR" tvg-name="Multisports 6" tvg-language="French" tvg-id="Multisports6.fr" ,Multisports 6
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/77680.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="131" tvg-logo"" tvg-country="FR" tvg-name="CANAL+ Decale HD FR" tvg-language="French" tvg-id="" ,CANAL+ Decale HD FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="126" tvg-logo"https://i.postimg.cc/kgGRDKsk/Canal-Plus-Decale-fr.png" tvg-country="FR" tvg-name="CANAL+ Decale" tvg-language="French" tvg-id="CanalPlusDecale.fr" ,CANAL+ Decale
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1469.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="132" tvg-logo"" tvg-country="FR" tvg-name="CANAL+ Sport HD FR" tvg-language="French" tvg-id="" ,CANAL+ Sport HD FR
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1392.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="133" tvg-logo"" tvg-country="FR" tvg-name="CANAL+ Décalé FHD FR" tvg-language="French" tvg-id="" ,CANAL+ Décalé FHD FR
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/4107.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="134" tvg-logo"" tvg-country="FR" tvg-name="CANAL+ Sport FHD FR" tvg-language="French" tvg-id="" ,CANAL+ Sport FHD FR
-http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/4094.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="135" tvg-logo"" tvg-country="FR" tvg-name="CANAL+ DECALE HD VIP FR" tvg-language="French" tvg-id="" ,CANAL+ DECALE HD VIP FR
+#EXTINF​:-1 group-title="Rugby" tvg-chno="127" tvg-logo"https://i.postimg.cc/kgGRDKsk/Canal-Plus-Decale-fr.png" tvg-country="FR" tvg-name="CANAL+ Decale HD" tvg-language="French" tvg-id="CanalPlusDecale.fr" ,CANAL+ Decale HD
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/96030.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="136" tvg-logo"" tvg-country="AR" tvg-name="ESPN" tvg-language="Spanish" tvg-id="" ,ESPN
+#EXTINF​:-1 group-title="Rugby" tvg-chno="128" tvg-logo"https://i.postimg.cc/kgGRDKsk/Canal-Plus-Decale-fr.png" tvg-country="FR" tvg-name="CANAL+ Decale FHD" tvg-language="French" tvg-id="CanalPlusDecale.fr" ,CANAL+ Decale FHD
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/4107.m3u8
+#EXTINF​:-1 group-title="Rugby" tvg-chno="129" tvg-logo"https://i.postimg.cc/ry9DJQYB/Canal-Plus-Sport-fr.png" tvg-country="FR" tvg-name="CANAL+ Sport HD" tvg-language="French" tvg-id="CanalPlusSport.fr" ,CANAL+ Sport HD
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1392.m3u8
+#EXTINF​:-1 group-title="Rugby" tvg-chno="130" tvg-logo"https://i.postimg.cc/ry9DJQYB/Canal-Plus-Sport-fr.png" tvg-country="FR" tvg-name="CANAL+ Sport FHD" tvg-language="French" tvg-id="CanalPlusSport.fr" ,CANAL+ Sport FHD
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/4094.m3u8
+#EXTINF​:-1 group-title="Deportes" tvg-chno="131" tvg-logo"" tvg-country="AR" tvg-name="ESPN" tvg-language="Spanish" tvg-id="" ,ESPN
 http://etvhome.com:25461/45113945/54931154/13330
-#EXTINF​:-1 group-title="Deportes" tvg-chno="137" tvg-logo"" tvg-country="AR" tvg-name="ESPN v2" tvg-language="Spanish" tvg-id="" ,ESPN v2
+#EXTINF​:-1 group-title="Deportes" tvg-chno="132" tvg-logo"" tvg-country="AR" tvg-name="ESPN v2" tvg-language="Spanish" tvg-id="" ,ESPN v2
 http://etvhome.com:25461/45113945/54931154/97725
-#EXTINF​:-1 group-title="Deportes" tvg-chno="138" tvg-logo"" tvg-country="AR" tvg-name="ESPN HD" tvg-language="Spanish" tvg-id="" ,ESPN HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="133" tvg-logo"" tvg-country="AR" tvg-name="ESPN HD" tvg-language="Spanish" tvg-id="" ,ESPN HD
 http://etvhome.com:25461/45113945/54931154/13237
-#EXTINF​:-1 group-title="Deportes" tvg-chno="139" tvg-logo"" tvg-country="AR" tvg-name="ESPN FHD" tvg-language="Spanish" tvg-id="" ,ESPN FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="134" tvg-logo"" tvg-country="AR" tvg-name="ESPN FHD" tvg-language="Spanish" tvg-id="" ,ESPN FHD
 http://etvhome.com:25461/45113945/54931154/36545
-#EXTINF​:-1 group-title="Deportes" tvg-chno="140" tvg-logo"" tvg-country="AR" tvg-name="ESPN 2 " tvg-language="Spanish" tvg-id="" ,ESPN 2 
+#EXTINF​:-1 group-title="Deportes" tvg-chno="135" tvg-logo"" tvg-country="AR" tvg-name="ESPN 2 " tvg-language="Spanish" tvg-id="" ,ESPN 2 
 http://etvhome.com:25461/45113945/54931154/97724
-#EXTINF​:-1 group-title="Deportes" tvg-chno="141" tvg-logo"" tvg-country="AR" tvg-name="ESPN 2 HD" tvg-language="Spanish" tvg-id="" ,ESPN 2 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="136" tvg-logo"" tvg-country="AR" tvg-name="ESPN 2 HD" tvg-language="Spanish" tvg-id="" ,ESPN 2 HD
 http://etvhome.com:25461/45113945/54931154/13902
-#EXTINF​:-1 group-title="Deportes" tvg-chno="142" tvg-logo"" tvg-country="AR" tvg-name="ESPN 2 FHD" tvg-language="Spanish" tvg-id="" ,ESPN 2 FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="137" tvg-logo"" tvg-country="AR" tvg-name="ESPN 2 FHD" tvg-language="Spanish" tvg-id="" ,ESPN 2 FHD
 http://etvhome.com:25461/45113945/54931154/28691
-#EXTINF​:-1 group-title="Deportes" tvg-chno="143" tvg-logo"" tvg-country="AR" tvg-name="ESPN 3" tvg-language="Spanish" tvg-id="" ,ESPN 3
+#EXTINF​:-1 group-title="Deportes" tvg-chno="138" tvg-logo"" tvg-country="AR" tvg-name="ESPN 3" tvg-language="Spanish" tvg-id="" ,ESPN 3
 http://etvhome.com:25461/45113945/54931154/13923
-#EXTINF​:-1 group-title="Deportes" tvg-chno="144" tvg-logo"" tvg-country="AR" tvg-name="ESPN 3 v2" tvg-language="Spanish" tvg-id="" ,ESPN 3 v2
+#EXTINF​:-1 group-title="Deportes" tvg-chno="139" tvg-logo"" tvg-country="AR" tvg-name="ESPN 3 v2" tvg-language="Spanish" tvg-id="" ,ESPN 3 v2
 http://etvhome.com:25461/45113945/54931154/98027
-#EXTINF​:-1 group-title="Deportes" tvg-chno="145" tvg-logo"" tvg-country="AR" tvg-name="ESPN 3 FHD" tvg-language="Spanish" tvg-id="" ,ESPN 3 FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="140" tvg-logo"" tvg-country="AR" tvg-name="ESPN 3 FHD" tvg-language="Spanish" tvg-id="" ,ESPN 3 FHD
 http://etvhome.com:25461/45113945/54931154/28690
-#EXTINF​:-1 group-title="Deportes" tvg-chno="146" tvg-logo"" tvg-country="AR" tvg-name="ESPN +" tvg-language="Spanish" tvg-id="" ,ESPN +
-http://etvhome.com:25461/45113945/54931154/97716
-#EXTINF​:-1 group-title="Deportes" tvg-chno="147" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports" tvg-language="Spanish" tvg-id="" ,Fox Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="141" tvg-logo"" tvg-country="AR" tvg-name="ESPN +" tvg-language="Spanish" tvg-id="" ,ESPN +
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/11510.m3u8
+#EXTINF​:-1 group-title="Deportes" tvg-chno="142" tvg-logo"" tvg-country="AR" tvg-name="ESPN + FHD" tvg-language="Spanish" tvg-id="" ,ESPN + FHD
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/11320.m3u8
+#EXTINF​:-1 group-title="Deportes" tvg-chno="143" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports" tvg-language="Spanish" tvg-id="" ,Fox Sports
 http://etvhome.com:25461/45113945/54931154/97872
-#EXTINF​:-1 group-title="Deportes" tvg-chno="148" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports HD" tvg-language="Spanish" tvg-id="" ,Fox Sports HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="144" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports HD" tvg-language="Spanish" tvg-id="" ,Fox Sports HD
 http://etvhome.com:25461/45113945/54931154/13845
-#EXTINF​:-1 group-title="Deportes" tvg-chno="149" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports HD v2" tvg-language="Spanish" tvg-id="" ,Fox Sports HD v2
+#EXTINF​:-1 group-title="Deportes" tvg-chno="145" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports HD v2" tvg-language="Spanish" tvg-id="" ,Fox Sports HD v2
 http://etvhome.com:25461/45113945/54931154/97715
-#EXTINF​:-1 group-title="Deportes" tvg-chno="150" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports 2 " tvg-language="Spanish" tvg-id="" ,Fox Sports 2 
+#EXTINF​:-1 group-title="Deportes" tvg-chno="146" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports 2 " tvg-language="Spanish" tvg-id="" ,Fox Sports 2 
 http://etvhome.com:25461/45113945/54931154/97728
-#EXTINF​:-1 group-title="Deportes" tvg-chno="151" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports 2 HD" tvg-language="Spanish" tvg-id="" ,Fox Sports 2 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="147" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports 2 HD" tvg-language="Spanish" tvg-id="" ,Fox Sports 2 HD
 http://etvhome.com:25461/45113945/54931154/13847
-#EXTINF​:-1 group-title="Deportes" tvg-chno="152" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports 3 HD" tvg-language="Spanish" tvg-id="" ,Fox Sports 3 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="148" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports 3 HD" tvg-language="Spanish" tvg-id="" ,Fox Sports 3 HD
 http://etvhome.com:25461/45113945/54931154/13849
-#EXTINF​:-1 group-title="Deportes" tvg-chno="153" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports Premium HD" tvg-language="Spanish" tvg-id="" ,Fox Sports Premium HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="149" tvg-logo"" tvg-country="AR" tvg-name="Fox Sports Premium HD" tvg-language="Spanish" tvg-id="" ,Fox Sports Premium HD
 http://etvhome.com:25461/45113945/54931154/13779
-#EXTINF​:-1 group-title="Deportes" tvg-chno="154" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports HD" tvg-language="Spanish" tvg-id="" ,TNT Sports HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="150" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports HD" tvg-language="Spanish" tvg-id="" ,TNT Sports HD
 http://etvhome.com:25461/45113945/54931154/13403
-#EXTINF​:-1 group-title="Deportes" tvg-chno="155" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports FHD" tvg-language="Spanish" tvg-id="" ,TNT Sports FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="151" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports FHD" tvg-language="Spanish" tvg-id="" ,TNT Sports FHD
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/11407.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="156" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports HD v2" tvg-language="Spanish" tvg-id="" ,TNT Sports HD v2
+#EXTINF​:-1 group-title="Deportes" tvg-chno="152" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports HD v2" tvg-language="Spanish" tvg-id="" ,TNT Sports HD v2
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/11447.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="157" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports" tvg-language="Spanish" tvg-id="" ,TNT Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="153" tvg-logo"" tvg-country="AR" tvg-name="TNT Sports" tvg-language="Spanish" tvg-id="" ,TNT Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/5389.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="158" tvg-logo"" tvg-country="AR" tvg-name="TyC Sports" tvg-language="Spanish" tvg-id="" ,TyC Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="154" tvg-logo"" tvg-country="AR" tvg-name="TyC Sports" tvg-language="Spanish" tvg-id="" ,TyC Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/11642.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="159" tvg-logo"" tvg-country="AR" tvg-name="TYC SPORTS HD" tvg-language="Spanish" tvg-id="" ,TYC SPORTS HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="155" tvg-logo"" tvg-country="AR" tvg-name="TYC SPORTS HD" tvg-language="Spanish" tvg-id="" ,TYC SPORTS HD
 http://etvhome.com:25461/45113945/54931154/13860
-#EXTINF​:-1 group-title="Deportes" tvg-chno="160" tvg-logo"" tvg-country="AR" tvg-name="TyC Sports FHD" tvg-language="Spanish" tvg-id="" ,TyC Sports FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="156" tvg-logo"" tvg-country="AR" tvg-name="TyC Sports FHD" tvg-language="Spanish" tvg-id="" ,TyC Sports FHD
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/11349.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="161" tvg-logo"" tvg-country="AR" tvg-name="DirecTV Sports HD" tvg-language="Spanish" tvg-id="" ,DirecTV Sports HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="157" tvg-logo"" tvg-country="AR" tvg-name="DirecTV Sports HD" tvg-language="Spanish" tvg-id="" ,DirecTV Sports HD
 http://etvhome.com:25461/45113945/54931154/13857
-#EXTINF​:-1 group-title="Deportes" tvg-chno="162" tvg-logo"" tvg-country="AR" tvg-name="DirecTV Sports + HD" tvg-language="Spanish" tvg-id="" ,DirecTV Sports + HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="158" tvg-logo"" tvg-country="AR" tvg-name="DirecTV Sports + HD" tvg-language="Spanish" tvg-id="" ,DirecTV Sports + HD
 http://etvhome.com:25461/45113945/54931154/13854
-#EXTINF​:-1 group-title="Deportes" tvg-chno="163" tvg-logo"" tvg-country="AR" tvg-name="DirecTV Sports 2 HD" tvg-language="Spanish" tvg-id="" ,DirecTV Sports 2 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="159" tvg-logo"" tvg-country="AR" tvg-name="DirecTV Sports 2 HD" tvg-language="Spanish" tvg-id="" ,DirecTV Sports 2 HD
 http://etvhome.com:25461/45113945/54931154/13853
-#EXTINF​:-1 group-title="Deportes" tvg-chno="164" tvg-logo"" tvg-country="AR" tvg-name="beiN SPORTS HD" tvg-language="Spanish" tvg-id="" ,beiN SPORTS HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="160" tvg-logo"" tvg-country="AR" tvg-name="beiN SPORTS HD" tvg-language="Spanish" tvg-id="" ,beiN SPORTS HD
 http://etvhome.com:25461/45113945/54931154/90823
-#EXTINF​:-1 group-title="Deportes" tvg-chno="165" tvg-logo"" tvg-country="AR" tvg-name="EUROSPORT 1 HD" tvg-language="Spanish" tvg-id="" ,EUROSPORT 1 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="161" tvg-logo"" tvg-country="AR" tvg-name="EUROSPORT 1 HD" tvg-language="Spanish" tvg-id="" ,EUROSPORT 1 HD
 http://etvhome.com:25461/45113945/54931154/63802
-#EXTINF​:-1 group-title="Deportes" tvg-chno="166" tvg-logo"" tvg-country="AR" tvg-name="EUROSPORT 2 HD" tvg-language="Spanish" tvg-id="" ,EUROSPORT 2 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="162" tvg-logo"" tvg-country="AR" tvg-name="EUROSPORT 2 HD" tvg-language="Spanish" tvg-id="" ,EUROSPORT 2 HD
 http://etvhome.com:25461/45113945/54931154/63803
-#EXTINF​:-1 group-title="Deportes" tvg-chno="167" tvg-logo"" tvg-country="AR" tvg-name="GOL HD" tvg-language="Spanish" tvg-id="" ,GOL HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="163" tvg-logo"" tvg-country="AR" tvg-name="GOL HD" tvg-language="Spanish" tvg-id="" ,GOL HD
 http://etvhome.com:25461/45113945/54931154/81294
-#EXTINF​:-1 group-title="Deportes" tvg-chno="168" tvg-logo"" tvg-country="AR" tvg-name="MOVISTAR DEPORTES  HD" tvg-language="Spanish" tvg-id="" ,MOVISTAR DEPORTES  HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="164" tvg-logo"" tvg-country="AR" tvg-name="MOVISTAR DEPORTES  HD" tvg-language="Spanish" tvg-id="" ,MOVISTAR DEPORTES  HD
 http://etvhome.com:25461/45113945/54931154/36362
-#EXTINF​:-1 group-title="Deportes" tvg-chno="169" tvg-logo"" tvg-country="AR" tvg-name="MOVISTAR Formula 1 HD" tvg-language="Spanish" tvg-id="" ,MOVISTAR Formula 1 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="165" tvg-logo"" tvg-country="AR" tvg-name="MOVISTAR Formula 1 HD" tvg-language="Spanish" tvg-id="" ,MOVISTAR Formula 1 HD
 http://etvhome.com:25461/45113945/54931154/36242
-#EXTINF​:-1 group-title="Deportes" tvg-chno="170" tvg-logo"" tvg-country="AR" tvg-name="Claro Sports HD" tvg-language="Spanish" tvg-id="" ,Claro Sports HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="166" tvg-logo"" tvg-country="AR" tvg-name="Claro Sports HD" tvg-language="Spanish" tvg-id="" ,Claro Sports HD
 http://etvhome.com:25461/45113945/54931154/27752
-#EXTINF​:-1 group-title="Deportes" tvg-chno="171" tvg-logo"" tvg-country="AR" tvg-name="MEGA SD-HD (ES)" tvg-language="Spanish" tvg-id="" ,MEGA SD-HD (ES)
+#EXTINF​:-1 group-title="Deportes" tvg-chno="167" tvg-logo"" tvg-country="AR" tvg-name="MEGA SD-HD (ES)" tvg-language="Spanish" tvg-id="" ,MEGA SD-HD (ES)
 http://etvhome.com:25461/45113945/54931154/31840
-#EXTINF​:-1 group-title="Deportes" tvg-chno="172" tvg-logo"" tvg-country="AR" tvg-name="TELEDEPORTE (ES)" tvg-language="Spanish" tvg-id="" ,TELEDEPORTE (ES)
+#EXTINF​:-1 group-title="Deportes" tvg-chno="168" tvg-logo"" tvg-country="AR" tvg-name="TELEDEPORTE (ES)" tvg-language="Spanish" tvg-id="" ,TELEDEPORTE (ES)
 http://etvhome.com:25461/45113945/54931154/32532
-#EXTINF​:-1 group-title="Deportes" tvg-chno="173" tvg-logo"" tvg-country="AR" tvg-name="Movistar LA LIGA HD" tvg-language="Spanish" tvg-id="" ,Movistar LA LIGA HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="169" tvg-logo"" tvg-country="AR" tvg-name="Movistar LA LIGA HD" tvg-language="Spanish" tvg-id="" ,Movistar LA LIGA HD
 http://etvhome.com:25461/45113945/54931154/32797
-#EXTINF​:-1 group-title="Deportes" tvg-chno="174" tvg-logo"" tvg-country="AR" tvg-name="Movistar LA LIGA FHD" tvg-language="Spanish" tvg-id="" ,Movistar LA LIGA FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="170" tvg-logo"" tvg-country="AR" tvg-name="Movistar LA LIGA FHD" tvg-language="Spanish" tvg-id="" ,Movistar LA LIGA FHD
 http://etvhome.com:25461/45113945/54931154/24871
-#EXTINF​:-1 group-title="Deportes" tvg-chno="175" tvg-logo"" tvg-country="AR" tvg-name="Movistar LIGA DE CAMPEONES FHD" tvg-language="Spanish" tvg-id="" ,Movistar LIGA DE CAMPEONES FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="171" tvg-logo"" tvg-country="AR" tvg-name="Movistar LIGA DE CAMPEONES FHD" tvg-language="Spanish" tvg-id="" ,Movistar LIGA DE CAMPEONES FHD
 http://etvhome.com:25461/45113945/54931154/80598
-#EXTINF​:-1 group-title="Deportes" tvg-chno="176" tvg-logo"" tvg-country="AR" tvg-name="LAT : TELEMUNDO" tvg-language="Spanish" tvg-id="" ,LAT : TELEMUNDO
+#EXTINF​:-1 group-title="Deportes" tvg-chno="172" tvg-logo"" tvg-country="AR" tvg-name="LAT : TELEMUNDO" tvg-language="Spanish" tvg-id="" ,LAT : TELEMUNDO
 http://etvhome.com:25461/45113945/54931154/97726
-#EXTINF​:-1 group-title="Deportes" tvg-chno="177" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 1 HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 1 HD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="173" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 1 HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 1 HD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17196.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="178" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 1 FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 1 FHD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="174" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 1 FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 1 FHD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17197.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="179" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 2 HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 2 HD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="175" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 2 HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 2 HD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17194.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="180" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 2 FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 2 FHD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="176" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 2 FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 2 FHD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17195.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="181" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 3 HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 3 HD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="177" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 3 HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 3 HD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17192.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="182" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 3 FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 3 FHD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="178" tvg-logo"" tvg-country="AR" tvg-name="BT Sports 3 FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports 3 FHD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17193.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="183" tvg-logo"" tvg-country="AR" tvg-name="BT Sports ESPN HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports ESPN HD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="179" tvg-logo"" tvg-country="AR" tvg-name="BT Sports ESPN HD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports ESPN HD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17190.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="184" tvg-logo"" tvg-country="AR" tvg-name="BT Sports ESPN FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports ESPN FHD VIP Sports
+#EXTINF​:-1 group-title="Deportes" tvg-chno="180" tvg-logo"" tvg-country="AR" tvg-name="BT Sports ESPN FHD VIP Sports" tvg-language="Spanish" tvg-id="" ,BT Sports ESPN FHD VIP Sports
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/17191.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="185" tvg-logo"" tvg-country="AR" tvg-name="S Sports NFL FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports NFL FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="181" tvg-logo"" tvg-country="AR" tvg-name="S Sports NFL FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports NFL FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66877.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="186" tvg-logo"" tvg-country="AR" tvg-name="S Sports Arena FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Arena FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="182" tvg-logo"" tvg-country="AR" tvg-name="S Sports Arena FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Arena FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66870.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="187" tvg-logo"" tvg-country="AR" tvg-name="S Sports Cricket FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Cricket FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="183" tvg-logo"" tvg-country="AR" tvg-name="S Sports Cricket FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Cricket FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66876.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="188" tvg-logo"" tvg-country="AR" tvg-name="S Sports F1 FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports F1 FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="184" tvg-logo"" tvg-country="AR" tvg-name="S Sports F1 FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports F1 FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66875.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="189" tvg-logo"" tvg-country="AR" tvg-name="S Sports Football FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Football FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="185" tvg-logo"" tvg-country="AR" tvg-name="S Sports Football FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Football FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66874.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="190" tvg-logo"" tvg-country="AR" tvg-name="S Sports Golf FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Golf FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="186" tvg-logo"" tvg-country="AR" tvg-name="S Sports Golf FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Golf FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66873.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="191" tvg-logo"" tvg-country="AR" tvg-name="S Sports Main Event FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Main Event FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="187" tvg-logo"" tvg-country="AR" tvg-name="S Sports Main Event FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Main Event FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66872.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="192" tvg-logo"" tvg-country="AR" tvg-name="S Sports Premier League FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Premier League FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="188" tvg-logo"" tvg-country="AR" tvg-name="S Sports Premier League FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Premier League FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66871.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="193" tvg-logo"" tvg-country="AR" tvg-name="S Sports Racing FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Racing FHD UK VIP SPORTS
+#EXTINF​:-1 group-title="Deportes" tvg-chno="189" tvg-logo"" tvg-country="AR" tvg-name="S Sports Racing FHD UK VIP SPORTS" tvg-language="Spanish" tvg-id="" ,S Sports Racing FHD UK VIP SPORTS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/66869.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="194" tvg-logo"" tvg-country="AR" tvg-name="S Sport TV 1 Latin America" tvg-language="Spanish" tvg-id="" ,S Sport TV 1 Latin America
+#EXTINF​:-1 group-title="Deportes" tvg-chno="190" tvg-logo"" tvg-country="AR" tvg-name="S Sport TV 1 Latin America" tvg-language="Spanish" tvg-id="" ,S Sport TV 1 Latin America
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/5333.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="195" tvg-logo"" tvg-country="AR" tvg-name="S Sport TV 2 Latin America" tvg-language="Spanish" tvg-id="" ,S Sport TV 2 Latin America
+#EXTINF​:-1 group-title="Deportes" tvg-chno="191" tvg-logo"" tvg-country="AR" tvg-name="S Sport TV 2 Latin America" tvg-language="Spanish" tvg-id="" ,S Sport TV 2 Latin America
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/5332.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="196" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 1 HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 1 HD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="192" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 1 HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 1 HD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/370.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="197" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 1 UK" tvg-language="Spanish" tvg-id="" ,BT Sport 1 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="193" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 1 UK" tvg-language="Spanish" tvg-id="" ,BT Sport 1 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/369.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="198" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 2 HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 2 HD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="194" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 2 HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 2 HD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/368.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="199" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 2 UK" tvg-language="Spanish" tvg-id="" ,BT Sport 2 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="195" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 2 UK" tvg-language="Spanish" tvg-id="" ,BT Sport 2 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/367.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="200" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 3 HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 3 HD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="196" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 3 HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 3 HD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/366.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="201" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 3 UK" tvg-language="Spanish" tvg-id="" ,BT Sport 3 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="197" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 3 UK" tvg-language="Spanish" tvg-id="" ,BT Sport 3 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/365.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="202" tvg-logo"" tvg-country="AR" tvg-name="BT Sport ESPN HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport ESPN HD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="198" tvg-logo"" tvg-country="AR" tvg-name="BT Sport ESPN HD UK" tvg-language="Spanish" tvg-id="" ,BT Sport ESPN HD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1743.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="203" tvg-logo"" tvg-country="AR" tvg-name="BT Sport ESPN UK" tvg-language="Spanish" tvg-id="" ,BT Sport ESPN UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="199" tvg-logo"" tvg-country="AR" tvg-name="BT Sport ESPN UK" tvg-language="Spanish" tvg-id="" ,BT Sport ESPN UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1819.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="204" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 1 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 1 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="200" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 1 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 1 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1818.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="205" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 2 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 2 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="201" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 2 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 2 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1817.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="206" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 3 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 3 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="202" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 3 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 3 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1816.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="207" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 4 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 4 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="203" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 4 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 4 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1815.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="208" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 5 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 5 UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="204" tvg-logo"" tvg-country="AR" tvg-name="BT Sport Extra 5 UK" tvg-language="Spanish" tvg-id="" ,BT Sport Extra 5 UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/1814.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="209" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 1 FHD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 1 FHD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="205" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 1 FHD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 1 FHD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/5716.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="210" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 2 FHD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 2 FHD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="206" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 2 FHD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 2 FHD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/5715.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="211" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 3 FHD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 3 FHD UK
+#EXTINF​:-1 group-title="Deportes" tvg-chno="207" tvg-logo"" tvg-country="AR" tvg-name="BT Sport 3 FHD UK" tvg-language="Spanish" tvg-id="" ,BT Sport 3 FHD UK
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/5714.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="212" tvg-logo"" tvg-country="AR" tvg-name="Extreme Sports FHD PL" tvg-language="Spanish" tvg-id="" ,Extreme Sports FHD PL
+#EXTINF​:-1 group-title="Deportes" tvg-chno="208" tvg-logo"" tvg-country="AR" tvg-name="Extreme Sports FHD PL" tvg-language="Spanish" tvg-id="" ,Extreme Sports FHD PL
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/859.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="213" tvg-logo"" tvg-country="AR" tvg-name="Extreme Sports HD PL" tvg-language="Spanish" tvg-id="" ,Extreme Sports HD PL
+#EXTINF​:-1 group-title="Deportes" tvg-chno="209" tvg-logo"" tvg-country="AR" tvg-name="Extreme Sports HD PL" tvg-language="Spanish" tvg-id="" ,Extreme Sports HD PL
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/12323.m3u8
-#EXTINF​:-1 group-title="Deportes" tvg-chno="214" tvg-logo"" tvg-country="AR" tvg-name="EVENTO DIRECTV HD" tvg-language="Spanish" tvg-id="" ,EVENTO DIRECTV HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="210" tvg-logo"" tvg-country="AR" tvg-name="EVENTO DIRECTV HD" tvg-language="Spanish" tvg-id="" ,EVENTO DIRECTV HD
 http://etvhome.com:25461/45113945/54931154/72619
-#EXTINF​:-1 group-title="Deportes" tvg-chno="215" tvg-logo"" tvg-country="AR" tvg-name="EVENTO ESPN HD" tvg-language="Spanish" tvg-id="" ,EVENTO ESPN HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="211" tvg-logo"" tvg-country="AR" tvg-name="EVENTO ESPN HD" tvg-language="Spanish" tvg-id="" ,EVENTO ESPN HD
 http://etvhome.com:25461/45113945/54931154/73570
-#EXTINF​:-1 group-title="Deportes" tvg-chno="216" tvg-logo"" tvg-country="AR" tvg-name="EVENTO ESPN 2 HD" tvg-language="Spanish" tvg-id="" ,EVENTO ESPN 2 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="212" tvg-logo"" tvg-country="AR" tvg-name="EVENTO ESPN 2 HD" tvg-language="Spanish" tvg-id="" ,EVENTO ESPN 2 HD
 http://etvhome.com:25461/45113945/54931154/63800
-#EXTINF​:-1 group-title="Deportes" tvg-chno="217" tvg-logo"" tvg-country="AR" tvg-name="EVENTO ESPN 3 HD" tvg-language="Spanish" tvg-id="" ,EVENTO ESPN 3 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="213" tvg-logo"" tvg-country="AR" tvg-name="EVENTO ESPN 3 HD" tvg-language="Spanish" tvg-id="" ,EVENTO ESPN 3 HD
 http://etvhome.com:25461/45113945/54931154/77996
-#EXTINF​:-1 group-title="Deportes" tvg-chno="218" tvg-logo"" tvg-country="AR" tvg-name="EVENTO Fox Sports HD" tvg-language="Spanish" tvg-id="" ,EVENTO Fox Sports HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="214" tvg-logo"" tvg-country="AR" tvg-name="EVENTO Fox Sports HD" tvg-language="Spanish" tvg-id="" ,EVENTO Fox Sports HD
 http://etvhome.com:25461/45113945/54931154/73571
-#EXTINF​:-1 group-title="Deportes" tvg-chno="219" tvg-logo"" tvg-country="AR" tvg-name="EVENTO Fox Sports 2 HD" tvg-language="Spanish" tvg-id="" ,EVENTO Fox Sports 2 HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="215" tvg-logo"" tvg-country="AR" tvg-name="EVENTO Fox Sports 2 HD" tvg-language="Spanish" tvg-id="" ,EVENTO Fox Sports 2 HD
 http://etvhome.com:25461/45113945/54931154/92616
-#EXTINF​:-1 group-title="Deportes" tvg-chno="220" tvg-logo"" tvg-country="AR" tvg-name="EVENTO UEFA FULL HD" tvg-language="Spanish" tvg-id="" ,EVENTO UEFA FULL HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="216" tvg-logo"" tvg-country="AR" tvg-name="EVENTO UEFA FULL HD" tvg-language="Spanish" tvg-id="" ,EVENTO UEFA FULL HD
 http://etvhome.com:25461/45113945/54931154/90907
-#EXTINF​:-1 group-title="Deportes" tvg-chno="221" tvg-logo"" tvg-country="AR" tvg-name="EVENTO CONMEBOL FULL HD" tvg-language="Spanish" tvg-id="" ,EVENTO CONMEBOL FULL HD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="217" tvg-logo"" tvg-country="AR" tvg-name="EVENTO CONMEBOL FULL HD" tvg-language="Spanish" tvg-id="" ,EVENTO CONMEBOL FULL HD
 http://etvhome.com:25461/45113945/54931154/63801
-#EXTINF​:-1 group-title="Deportes" tvg-chno="222" tvg-logo"" tvg-country="AR" tvg-name="EVENTO FORMULA 1 FHD" tvg-language="Spanish" tvg-id="" ,EVENTO FORMULA 1 FHD
+#EXTINF​:-1 group-title="Deportes" tvg-chno="218" tvg-logo"" tvg-country="AR" tvg-name="EVENTO FORMULA 1 FHD" tvg-language="Spanish" tvg-id="" ,EVENTO FORMULA 1 FHD
 http://etvhome.com:25461/45113945/54931154/72620
-#EXTINF​:-1 group-title="Deportes" tvg-chno="223" tvg-logo"" tvg-country="AR" tvg-name="EVENTO NBA HD TNT " tvg-language="Spanish" tvg-id="" ,EVENTO NBA HD TNT 
+#EXTINF​:-1 group-title="Deportes" tvg-chno="219" tvg-logo"" tvg-country="AR" tvg-name="EVENTO NBA HD TNT " tvg-language="Spanish" tvg-id="" ,EVENTO NBA HD TNT 
 http://etvhome.com:25461/45113945/54931154/90906
-#EXTINF​:-1 group-title="USA" tvg-chno="224" tvg-logo"" tvg-country="US" tvg-name="Cheddar News" tvg-language="English" tvg-id="" ,Cheddar News
+#EXTINF​:-1 group-title="USA" tvg-chno="220" tvg-logo"" tvg-country="US" tvg-name="Cheddar News" tvg-language="English" tvg-id="" ,Cheddar News
 http://etvhome.com:25461/45113945/54931154/78938
-#EXTINF​:-1 group-title="USA" tvg-chno="225" tvg-logo"" tvg-country="US" tvg-name="ESPN News" tvg-language="English" tvg-id="" ,ESPN News
+#EXTINF​:-1 group-title="USA" tvg-chno="221" tvg-logo"" tvg-country="US" tvg-name="ESPN News" tvg-language="English" tvg-id="" ,ESPN News
 http://etvhome.com:25461/45113945/54931154/78947
-#EXTINF​:-1 group-title="USA" tvg-chno="226" tvg-logo"" tvg-country="US" tvg-name="FOX Dallas" tvg-language="English" tvg-id="" ,FOX Dallas
+#EXTINF​:-1 group-title="USA" tvg-chno="222" tvg-logo"" tvg-country="US" tvg-name="FOX Dallas" tvg-language="English" tvg-id="" ,FOX Dallas
 http://etvhome.com:25461/45113945/54931154/35090
-#EXTINF​:-1 group-title="USA" tvg-chno="227" tvg-logo"" tvg-country="US" tvg-name="INVESTIGATION DISCOVERY" tvg-language="English" tvg-id="" ,INVESTIGATION DISCOVERY
+#EXTINF​:-1 group-title="USA" tvg-chno="223" tvg-logo"" tvg-country="US" tvg-name="INVESTIGATION DISCOVERY" tvg-language="English" tvg-id="" ,INVESTIGATION DISCOVERY
 http://etvhome.com:25461/45113945/54931154/73306
-#EXTINF​:-1 group-title="USA" tvg-chno="228" tvg-logo"" tvg-country="US" tvg-name="Discovery Channel" tvg-language="English" tvg-id="" ,Discovery Channel
+#EXTINF​:-1 group-title="USA" tvg-chno="224" tvg-logo"" tvg-country="US" tvg-name="Discovery Channel" tvg-language="English" tvg-id="" ,Discovery Channel
 http://etvhome.com:25461/45113945/54931154/35059
-#EXTINF​:-1 group-title="USA" tvg-chno="229" tvg-logo"" tvg-country="US" tvg-name="Nat Geo Wild" tvg-language="English" tvg-id="" ,Nat Geo Wild
+#EXTINF​:-1 group-title="USA" tvg-chno="225" tvg-logo"" tvg-country="US" tvg-name="Nat Geo Wild" tvg-language="English" tvg-id="" ,Nat Geo Wild
 http://etvhome.com:25461/45113945/54931154/35279
-#EXTINF​:-1 group-title="USA" tvg-chno="230" tvg-logo"" tvg-country="US" tvg-name="History Channel" tvg-language="English" tvg-id="" ,History Channel
+#EXTINF​:-1 group-title="USA" tvg-chno="226" tvg-logo"" tvg-country="US" tvg-name="History Channel" tvg-language="English" tvg-id="" ,History Channel
 http://etvhome.com:25461/45113945/54931154/28136
-#EXTINF​:-1 group-title="USA" tvg-chno="231" tvg-logo"" tvg-country="US" tvg-name="HGTV" tvg-language="English" tvg-id="" ,HGTV
+#EXTINF​:-1 group-title="USA" tvg-chno="227" tvg-logo"" tvg-country="US" tvg-name="HGTV" tvg-language="English" tvg-id="" ,HGTV
 http://etvhome.com:25461/45113945/54931154/28133
-#EXTINF​:-1 group-title="USA" tvg-chno="232" tvg-logo"" tvg-country="US" tvg-name="Entertainment" tvg-language="English" tvg-id="" ,Entertainment
+#EXTINF​:-1 group-title="USA" tvg-chno="228" tvg-logo"" tvg-country="US" tvg-name="Entertainment" tvg-language="English" tvg-id="" ,Entertainment
 http://etvhome.com:25461/45113945/54931154/35068
-#EXTINF​:-1 group-title="USA" tvg-chno="233" tvg-logo"" tvg-country="US" tvg-name="Animal Planet" tvg-language="English" tvg-id="" ,Animal Planet
+#EXTINF​:-1 group-title="USA" tvg-chno="229" tvg-logo"" tvg-country="US" tvg-name="Animal Planet" tvg-language="English" tvg-id="" ,Animal Planet
 http://etvhome.com:25461/45113945/54931154/80772
-#EXTINF​:-1 group-title="USA" tvg-chno="234" tvg-logo"" tvg-country="US" tvg-name="A&E" tvg-language="English" tvg-id="" ,A&E
+#EXTINF​:-1 group-title="USA" tvg-chno="230" tvg-logo"" tvg-country="US" tvg-name="A&E" tvg-language="English" tvg-id="" ,A&E
 http://etvhome.com:25461/45113945/54931154/80767
-#EXTINF​:-1 group-title="USA" tvg-chno="235" tvg-logo"" tvg-country="US" tvg-name="Crime & Investigation" tvg-language="English" tvg-id="" ,Crime & Investigation
+#EXTINF​:-1 group-title="USA" tvg-chno="231" tvg-logo"" tvg-country="US" tvg-name="Crime & Investigation" tvg-language="English" tvg-id="" ,Crime & Investigation
 http://etvhome.com:25461/45113945/54931154/80799
-#EXTINF​:-1 group-title="USA" tvg-chno="236" tvg-logo"" tvg-country="US" tvg-name="BBC WORLD" tvg-language="English" tvg-id="" ,BBC WORLD
+#EXTINF​:-1 group-title="USA" tvg-chno="232" tvg-logo"" tvg-country="US" tvg-name="BBC WORLD" tvg-language="English" tvg-id="" ,BBC WORLD
 http://etvhome.com:25461/45113945/54931154/32784
-#EXTINF​:-1 group-title="USA" tvg-chno="237" tvg-logo"" tvg-country="US" tvg-name="BLOOMBERG (USA)" tvg-language="English" tvg-id="" ,BLOOMBERG (USA)
+#EXTINF​:-1 group-title="USA" tvg-chno="233" tvg-logo"" tvg-country="US" tvg-name="BLOOMBERG (USA)" tvg-language="English" tvg-id="" ,BLOOMBERG (USA)
 http://etvhome.com:25461/45113945/54931154/36349
-#EXTINF​:-1 group-title="USA" tvg-chno="238" tvg-logo"" tvg-country="US" tvg-name="CBSN New York" tvg-language="English" tvg-id="" ,CBSN New York
+#EXTINF​:-1 group-title="USA" tvg-chno="234" tvg-logo"" tvg-country="US" tvg-name="CBSN New York" tvg-language="English" tvg-id="" ,CBSN New York
 http://etvhome.com:25461/45113945/54931154/74122
-#EXTINF​:-1 group-title="USA" tvg-chno="239" tvg-logo"" tvg-country="US" tvg-name="CNN" tvg-language="English" tvg-id="" ,CNN
+#EXTINF​:-1 group-title="USA" tvg-chno="235" tvg-logo"" tvg-country="US" tvg-name="CNN" tvg-language="English" tvg-id="" ,CNN
 http://etvhome.com:25461/45113945/54931154/38729
-#EXTINF​:-1 group-title="USA" tvg-chno="240" tvg-logo"" tvg-country="US" tvg-name="MSNBC " tvg-language="English" tvg-id="" ,MSNBC 
+#EXTINF​:-1 group-title="USA" tvg-chno="236" tvg-logo"" tvg-country="US" tvg-name="MSNBC " tvg-language="English" tvg-id="" ,MSNBC 
 http://etvhome.com:25461/45113945/54931154/89489
-#EXTINF​:-1 group-title="USA" tvg-chno="241" tvg-logo"" tvg-country="US" tvg-name="WEATHER CHANNEL" tvg-language="English" tvg-id="" ,WEATHER CHANNEL
+#EXTINF​:-1 group-title="USA" tvg-chno="237" tvg-logo"" tvg-country="US" tvg-name="WEATHER CHANNEL" tvg-language="English" tvg-id="" ,WEATHER CHANNEL
 http://etvhome.com:25461/45113945/54931154/89671
-#EXTINF​:-1 group-title="USA" tvg-chno="242" tvg-logo"" tvg-country="US" tvg-name="GOLF Channel" tvg-language="English" tvg-id="" ,GOLF Channel
+#EXTINF​:-1 group-title="USA" tvg-chno="238" tvg-logo"" tvg-country="US" tvg-name="GOLF Channel" tvg-language="English" tvg-id="" ,GOLF Channel
 http://etvhome.com:25461/45113945/54931154/79026
-#EXTINF​:-1 group-title="USA" tvg-chno="243" tvg-logo"" tvg-country="US" tvg-name="ESPN" tvg-language="English" tvg-id="" ,ESPN
+#EXTINF​:-1 group-title="USA" tvg-chno="239" tvg-logo"" tvg-country="US" tvg-name="ESPN" tvg-language="English" tvg-id="" ,ESPN
 http://etvhome.com:25461/45113945/54931154/78939
-#EXTINF​:-1 group-title="USA" tvg-chno="244" tvg-logo"" tvg-country="US" tvg-name="ESPN 2" tvg-language="English" tvg-id="" ,ESPN 2
+#EXTINF​:-1 group-title="USA" tvg-chno="240" tvg-logo"" tvg-country="US" tvg-name="ESPN 2" tvg-language="English" tvg-id="" ,ESPN 2
 http://etvhome.com:25461/45113945/54931154/78940
-#EXTINF​:-1 group-title="USA" tvg-chno="245" tvg-logo"" tvg-country="US" tvg-name="Bein Sports HD" tvg-language="English" tvg-id="" ,Bein Sports HD
+#EXTINF​:-1 group-title="USA" tvg-chno="241" tvg-logo"" tvg-country="US" tvg-name="Bein Sports HD" tvg-language="English" tvg-id="" ,Bein Sports HD
 http://etvhome.com:25461/45113945/54931154/78935
-#EXTINF​:-1 group-title="USA" tvg-chno="246" tvg-logo"" tvg-country="US" tvg-name="Fight Network" tvg-language="English" tvg-id="" ,Fight Network
+#EXTINF​:-1 group-title="USA" tvg-chno="242" tvg-logo"" tvg-country="US" tvg-name="Fight Network" tvg-language="English" tvg-id="" ,Fight Network
 http://etvhome.com:25461/45113945/54931154/78949
-#EXTINF​:-1 group-title="USA" tvg-chno="247" tvg-logo"" tvg-country="US" tvg-name="Eleven Sports Network" tvg-language="English" tvg-id="" ,Eleven Sports Network
+#EXTINF​:-1 group-title="USA" tvg-chno="243" tvg-logo"" tvg-country="US" tvg-name="Eleven Sports Network" tvg-language="English" tvg-id="" ,Eleven Sports Network
 http://etvhome.com:25461/45113945/54931154/78950
-#EXTINF​:-1 group-title="USA" tvg-chno="248" tvg-logo"" tvg-country="US" tvg-name="Fantasy Sports Network" tvg-language="English" tvg-id="" ,Fantasy Sports Network
+#EXTINF​:-1 group-title="USA" tvg-chno="244" tvg-logo"" tvg-country="US" tvg-name="Fantasy Sports Network" tvg-language="English" tvg-id="" ,Fantasy Sports Network
 http://etvhome.com:25461/45113945/54931154/78951
-#EXTINF​:-1 group-title="USA" tvg-chno="249" tvg-logo"" tvg-country="US" tvg-name="Fox Sports 1" tvg-language="English" tvg-id="" ,Fox Sports 1
+#EXTINF​:-1 group-title="USA" tvg-chno="245" tvg-logo"" tvg-country="US" tvg-name="Fox Sports 1" tvg-language="English" tvg-id="" ,Fox Sports 1
 http://etvhome.com:25461/45113945/54931154/78956
-#EXTINF​:-1 group-title="USA" tvg-chno="250" tvg-logo"" tvg-country="US" tvg-name="Fox Sports 2" tvg-language="English" tvg-id="" ,Fox Sports 2
+#EXTINF​:-1 group-title="USA" tvg-chno="246" tvg-logo"" tvg-country="US" tvg-name="Fox Sports 2" tvg-language="English" tvg-id="" ,Fox Sports 2
 http://etvhome.com:25461/45113945/54931154/78957
-#EXTINF​:-1 group-title="USA" tvg-chno="251" tvg-logo"" tvg-country="US" tvg-name="MAV TV" tvg-language="English" tvg-id="" ,MAV TV
+#EXTINF​:-1 group-title="USA" tvg-chno="247" tvg-logo"" tvg-country="US" tvg-name="MAV TV" tvg-language="English" tvg-id="" ,MAV TV
 http://etvhome.com:25461/45113945/54931154/78985
-#EXTINF​:-1 group-title="USA" tvg-chno="252" tvg-logo"" tvg-country="US" tvg-name="MSG" tvg-language="English" tvg-id="" ,MSG
+#EXTINF​:-1 group-title="USA" tvg-chno="248" tvg-logo"" tvg-country="US" tvg-name="MSG" tvg-language="English" tvg-id="" ,MSG
 http://etvhome.com:25461/45113945/54931154/78986
-#EXTINF​:-1 group-title="USA" tvg-chno="253" tvg-logo"" tvg-country="US" tvg-name="NBC Golf" tvg-language="English" tvg-id="" ,NBC Golf
+#EXTINF​:-1 group-title="USA" tvg-chno="249" tvg-logo"" tvg-country="US" tvg-name="NBC Golf" tvg-language="English" tvg-id="" ,NBC Golf
 http://etvhome.com:25461/45113945/54931154/78987
-#EXTINF​:-1 group-title="USA" tvg-chno="254" tvg-logo"" tvg-country="US" tvg-name="Olympic Channel" tvg-language="English" tvg-id="" ,Olympic Channel
+#EXTINF​:-1 group-title="USA" tvg-chno="250" tvg-logo"" tvg-country="US" tvg-name="Olympic Channel" tvg-language="English" tvg-id="" ,Olympic Channel
 http://etvhome.com:25461/45113945/54931154/79001
-#EXTINF​:-1 group-title="USA" tvg-chno="255" tvg-logo"" tvg-country="US" tvg-name="SNY" tvg-language="English" tvg-id="" ,SNY
+#EXTINF​:-1 group-title="USA" tvg-chno="251" tvg-logo"" tvg-country="US" tvg-name="SNY" tvg-language="English" tvg-id="" ,SNY
 http://etvhome.com:25461/45113945/54931154/79005
-#EXTINF​:-1 group-title="USA" tvg-chno="256" tvg-logo"" tvg-country="US" tvg-name="Sportsnet" tvg-language="English" tvg-id="" ,Sportsnet
+#EXTINF​:-1 group-title="USA" tvg-chno="252" tvg-logo"" tvg-country="US" tvg-name="Sportsnet" tvg-language="English" tvg-id="" ,Sportsnet
 http://etvhome.com:25461/45113945/54931154/79007
-#EXTINF​:-1 group-title="USA" tvg-chno="257" tvg-logo"" tvg-country="US" tvg-name="The Sportsman Channel" tvg-language="English" tvg-id="" ,The Sportsman Channel
+#EXTINF​:-1 group-title="USA" tvg-chno="253" tvg-logo"" tvg-country="US" tvg-name="The Sportsman Channel" tvg-language="English" tvg-id="" ,The Sportsman Channel
 http://etvhome.com:25461/45113945/54931154/79009
-#EXTINF​:-1 group-title="USA" tvg-chno="258" tvg-logo"" tvg-country="US" tvg-name="NBC Sports" tvg-language="English" tvg-id="" ,NBC Sports
+#EXTINF​:-1 group-title="USA" tvg-chno="254" tvg-logo"" tvg-country="US" tvg-name="NBC Sports" tvg-language="English" tvg-id="" ,NBC Sports
 http://etvhome.com:25461/45113945/54931154/79021
-#EXTINF​:-1 group-title="USA" tvg-chno="259" tvg-logo"" tvg-country="US" tvg-name="GINX eSports" tvg-language="English" tvg-id="" ,GINX eSports
+#EXTINF​:-1 group-title="USA" tvg-chno="255" tvg-logo"" tvg-country="US" tvg-name="GINX eSports" tvg-language="English" tvg-id="" ,GINX eSports
 http://etvhome.com:25461/45113945/54931154/79023
-#EXTINF​:-1 group-title="USA" tvg-chno="260" tvg-logo"" tvg-country="US" tvg-name="SportsNet" tvg-language="English" tvg-id="" ,SportsNet
+#EXTINF​:-1 group-title="USA" tvg-chno="256" tvg-logo"" tvg-country="US" tvg-name="SportsNet" tvg-language="English" tvg-id="" ,SportsNet
 http://etvhome.com:25461/45113945/54931154/79024
-#EXTINF​:-1 group-title="USA" tvg-chno="261" tvg-logo"" tvg-country="US" tvg-name="World Fishing Network" tvg-language="English" tvg-id="" ,World Fishing Network
+#EXTINF​:-1 group-title="USA" tvg-chno="257" tvg-logo"" tvg-country="US" tvg-name="World Fishing Network" tvg-language="English" tvg-id="" ,World Fishing Network
 http://etvhome.com:25461/45113945/54931154/79042
-
-
