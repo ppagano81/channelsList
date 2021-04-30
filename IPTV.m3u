@@ -46,5 +46,12 @@ http://etvhome.com:25461/45113945/54931154/68600
 http://etvhome.com:25461/45113945/54931154/32509
 #EXTINF​:-1 group-title="TV" tvg-chno="23" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="ES" tvg-name="TVE Internacional" tvg-language="Spanish" tvg-id="ID" ,TVE Internacional
 http://etvhome.com:25461/45113945/54931154/31816
-
+#EXTINF​:-1 group-title="Rugby" tvg-chno="24" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="US" tvg-name="Fox Soccer Plus" tvg-language="English" tvg-id="ID" ,Fox Soccer Plus
+http://etvhome.com:25461/45113945/54931154/78955
+#EXTINF​:-1 group-title="Rugby" tvg-chno="25" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="ESPN EXTRA HD" tvg-language="Spanish" tvg-id="ID" ,ESPN EXTRA HD
+http://etvhome.com:25461/45113945/54931154/28911
+#EXTINF​:-1 group-title="Rugby" tvg-chno="26" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="MY" tvg-name="ASTRO RUGBY PASS" tvg-language="English" tvg-id="ID" ,ASTRO RUGBY PASS
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/18593.m3u8
+#EXTINF​:-1 group-title="Rugby" tvg-chno="27" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="SA" tvg-name="S Rugby" tvg-language="English" tvg-id="ID" ,S Rugby
+http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/74001.m3u8
 
