@@ -226,9 +226,9 @@ http://etvhome.com:25461/45113945/54931154/80779
 http://etvhome.com:25461/45113945/54931154/78955
 #EXTINF​:-1 group-title="Rugby" tvg-chno="113" tvg-logo"" tvg-country="AR" tvg-name="ESPN EXTRA HD" tvg-language="Spanish" tvg-id="" ,ESPN EXTRA HD
 http://etvhome.com:25461/45113945/54931154/13922
-#EXTINF​:-1 group-title="Rugby" tvg-chno="114" tvg-logo"" tvg-country="MY" tvg-name="ASTRO RUGBY PASS" tvg-language="English" tvg-id="" ,ASTRO RUGBY PASS
+#EXTINF​:-1 group-title="Rugby" tvg-chno="114" tvg-logo"" tvg-country="MY" tvg-name="ASTRO RUGBY PASS" tvg-language="English" tvg-id="RugbyPass TV HD" ,ASTRO RUGBY PASS
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/18593.m3u8
-#EXTINF​:-1 group-title="Rugby" tvg-chno="115" tvg-logo"" tvg-country="SA" tvg-name="S Rugby" tvg-language="English" tvg-id="" ,S Rugby
+#EXTINF​:-1 group-title="Rugby" tvg-chno="115" tvg-logo"https://i.postimg.cc/hj6Mf283/S-Rugby.jpg" tvg-country="SA" tvg-name="S Rugby" tvg-language="English" tvg-id="" ,S Rugby
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/74001.m3u8
 #EXTINF​:-1 group-title="Rugby" tvg-chno="116" tvg-logo"" tvg-country="FR" tvg-name="Canal+ Sport 3 HD PL" tvg-language="French" tvg-id="" ,Canal+ Sport 3 HD PL
 http://viviptv.com:8080/live/XEkFA8juos/fPgB2Imwyc/78187.m3u8
