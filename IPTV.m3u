@@ -1,12 +1,50 @@
 #EXTM3U
 
-#EXTINF​:-1 group-title=""TV"" tvg-chno=""1"" tvg-logo""https://i.postimg.cc/v8zq1JxF/Astro-Rugby-Pass-TV.png"" tvg-country=""UY"" tvg-name=""CANAL 4 FHD (UY)"" tvg-language=""Spanish"" tvg-id=""ID"",CANAL 4 FHD (UY) 
+#EXTINF​:-1 group-title="TV" tvg-chno="1" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="UY" tvg-name="CANAL 4 FHD (UY)" tvg-language="Spanish" tvg-id="ID" ,CANAL 4 FHD (UY)
 http://etvhome.com:25461/45113945/54931154/89144
-#EXTINF​:-1 group-title=""TV"" tvg-chno=""2"" tvg-logo""https://i.postimg.cc/v8zq1JxF/Astro-Rugby-Pass-TV.png"" tvg-country=""UY"" tvg-name=""CANAL 5 TNU HD (UY)"" tvg-language=""Spanish"" tvg-id=""ID"",CANAL 5 TNU HD (UY) 
+#EXTINF​:-1 group-title="TV" tvg-chno="2" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="UY" tvg-name="CANAL 5 TNU HD (UY)" tvg-language="Spanish" tvg-id="ID" ,CANAL 5 TNU HD (UY)
 http://etvhome.com:25461/45113945/54931154/13253
-#EXTINF​:-1 group-title=""TV"" tvg-chno=""3"" tvg-logo""https://i.postimg.cc/v8zq1JxF/Astro-Rugby-Pass-TV.png"" tvg-country=""UY"" tvg-name=""CANAL 10 FHD (UY)"" tvg-language=""Spanish"" tvg-id=""ID"",CANAL 10 FHD (UY) 
+#EXTINF​:-1 group-title="TV" tvg-chno="3" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="UY" tvg-name="CANAL 10 FHD (UY)" tvg-language="Spanish" tvg-id="ID" ,CANAL 10 FHD (UY)
 http://etvhome.com:25461/45113945/54931154/89145
-#EXTINF​:-1 group-title=""TV"" tvg-chno=""4"" tvg-logo""https://i.postimg.cc/v8zq1JxF/Astro-Rugby-Pass-TV.png"" tvg-country=""UY"" tvg-name=""CANAL 12 FHD (UY)"" tvg-language=""Spanish"" tvg-id=""ID"",CANAL 12 FHD (UY) 
+#EXTINF​:-1 group-title="TV" tvg-chno="4" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="UY" tvg-name="CANAL 12 FHD (UY)" tvg-language="Spanish" tvg-id="ID" ,CANAL 12 FHD (UY)
 http://etvhome.com:25461/45113945/54931154/89146
-#EXTINF​:-1 group-title=""TV"" tvg-chno=""5"" tvg-logo""https://i.postimg.cc/v8zq1JxF/Astro-Rugby-Pass-TV.png"" tvg-country=""US"" tvg-name=""CNN EN ESPAÑOL (LA) "" tvg-language=""Spanish"" tvg-id=""ID"",CNN EN ESPAÑOL (LA)  
+#EXTINF​:-1 group-title="TV" tvg-chno="5" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="US" tvg-name="CNN EN ESPAÑOL (LA) " tvg-language="Spanish" tvg-id="ID" ,CNN EN ESPAÑOL (LA) 
 http://etvhome.com:25461/45113945/54931154/14114
+#EXTINF​:-1 group-title="TV" tvg-chno="6" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="ES" tvg-name="DW En Español" tvg-language="Spanish" tvg-id="ID" ,DW En Español
+http://etvhome.com:25461/45113945/54931154/32691
+#EXTINF​:-1 group-title="TV" tvg-chno="7" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="FR" tvg-name="FRANCE 24 HD" tvg-language="Spanish" tvg-id="ID" ,FRANCE 24 HD
+http://etvhome.com:25461/45113945/54931154/68597
+#EXTINF​:-1 group-title="TV" tvg-chno="8" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="UY" tvg-name="VTV FHD (UY)" tvg-language="Spanish" tvg-id="ID" ,VTV FHD (UY)
+http://etvhome.com:25461/45113945/54931154/32790
+#EXTINF​:-1 group-title="TV" tvg-chno="9" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="UY" tvg-name="VTV PLUS FHD (UY)" tvg-language="Spanish" tvg-id="ID" ,VTV PLUS FHD (UY)
+http://etvhome.com:25461/45113945/54931154/89147
+#EXTINF​:-1 group-title="TV" tvg-chno="10" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="AMERICA HD" tvg-language="Spanish" tvg-id="ID" ,AMERICA HD
+http://etvhome.com:25461/45113945/54931154/36418
+#EXTINF​:-1 group-title="TV" tvg-chno="11" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="CANAL 26 HD" tvg-language="Spanish" tvg-id="ID" ,CANAL 26 HD
+http://etvhome.com:25461/45113945/54931154/33754
+#EXTINF​:-1 group-title="TV" tvg-chno="12" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="CANAL A24 HD" tvg-language="Spanish" tvg-id="ID" ,CANAL A24 HD
+http://etvhome.com:25461/45113945/54931154/20162
+#EXTINF​:-1 group-title="TV" tvg-chno="13" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="CRONICA TV" tvg-language="Spanish" tvg-id="ID" ,CRONICA TV
+http://etvhome.com:25461/45113945/54931154/14082
+#EXTINF​:-1 group-title="TV" tvg-chno="14" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="C5N HD" tvg-language="Spanish" tvg-id="ID" ,C5N HD
+http://etvhome.com:25461/45113945/54931154/82405
+#EXTINF​:-1 group-title="TV" tvg-chno="15" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="EL NUEVE HD " tvg-language="Spanish" tvg-id="ID" ,EL NUEVE HD 
+http://etvhome.com:25461/45113945/54931154/13325
+#EXTINF​:-1 group-title="TV" tvg-chno="16" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="EL TRECE HD" tvg-language="Spanish" tvg-id="ID" ,EL TRECE HD
+http://etvhome.com:25461/45113945/54931154/13327
+#EXTINF​:-1 group-title="TV" tvg-chno="17" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="LN+" tvg-language="Spanish" tvg-id="ID" ,LN+
+http://etvhome.com:25461/45113945/54931154/107635
+#EXTINF​:-1 group-title="TV" tvg-chno="18" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="TELEFE HD" tvg-language="Spanish" tvg-id="ID" ,TELEFE HD
+http://etvhome.com:25461/45113945/54931154/13314
+#EXTINF​:-1 group-title="TV" tvg-chno="19" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="TN HD" tvg-language="Spanish" tvg-id="ID" ,TN HD
+http://etvhome.com:25461/45113945/54931154/13313
+#EXTINF​:-1 group-title="TV" tvg-chno="20" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="AR" tvg-name="TV Publica HD" tvg-language="Spanish" tvg-id="ID" ,TV Publica HD
+http://etvhome.com:25461/45113945/54931154/13315
+#EXTINF​:-1 group-title="TV" tvg-chno="21" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="ES" tvg-name="24h (ES)" tvg-language="Spanish" tvg-id="ID" ,24h (ES)
+http://etvhome.com:25461/45113945/54931154/68600
+#EXTINF​:-1 group-title="TV" tvg-chno="22" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="ES" tvg-name="RT en Español" tvg-language="Spanish" tvg-id="ID" ,RT en Español
+http://etvhome.com:25461/45113945/54931154/32509
+#EXTINF​:-1 group-title="TV" tvg-chno="23" tvg-logo"https://i.postimg.cc/9QvMQsDq/Astro-Rugby-Pass-TV.jpg" tvg-country="ES" tvg-name="TVE Internacional" tvg-language="Spanish" tvg-id="ID" ,TVE Internacional
+http://etvhome.com:25461/45113945/54931154/31816
+
+
